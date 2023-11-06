@@ -24,7 +24,7 @@ The Axioma meters come with different radio interfaces:
 ### Reading and Parametrization
 All the following information can be gathered on the Web through searching. Axioma also has a [support system](https://axmsupport.freshdesk.com/support/login) where you can [create an account](https://axmsupport.freshdesk.com/support/signup) and access their [knowledge base](https://axmsupport.freshdesk.com/support/solutions). The knowledge base itself has valuable information, alas not for what I need for this project. I've opened a support ticket with them and will keep things updated here.
 
-**Update 20231106:** they basically told me that end users will not be provided any information by them directly, read: go away, we won't talk to you. 
+**Update 20231106:** they basically told me that end users will not be provided any information by them directly, read: go away, we won't talk to you. Apparently all the communication information is under an NDA, so... time to reverse engineer. I would really have liked to endorse them as they're a small company from the Baltics but with this underwhelming support for home automation users I can only advise people to stay away from them.
 
 The smart meter can be configured by a web interface and an optical accessory with a USB plug (the OG-1 USB, ridiculously priced at around 200€/USD) as well as through an Android App that is not available on the Play Store anymore, but can be found on the Web. The Android phone with the app installed connects to the smart meter through NFC. Axioma provides manuals on how to configure the meter.
 Basically parametrization means that you can activate and deactivate the radio interfaces and set certain configuration settings for each. 
